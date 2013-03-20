@@ -1,1 +1,1 @@
-#### Backup product images using dropbox
+#### Backup product images using dropbox - https://github.com/saranyan/bigcommerce-api-usecases/blob/master/ruby/inventory/dropbox_integration.md

@@ -1,1 +1,1 @@
-#### Send thank you notes to customers
+#### Send thank you notes to customers - https://github.com/saranyan/bigcommerce-api-usecases/blob/master/ruby/loyalty/send_thank_you_notes.md
