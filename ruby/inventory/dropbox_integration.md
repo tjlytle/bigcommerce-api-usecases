@@ -1,3 +1,5 @@
+## BigCommerce + Dropbox = Backup product images
+
 If you don’t know dropbox, check it out. It gives you a way to store your files on the cloud and sync it up with different devices. One problem a lot of merchants/ecommerce clients run into is irregular backups. Sometimes, you get hosed when there is data corruption and stuff is not backed up. There are several ways in which you can backup Bigcommerce store data via WebDAV. A different route is presented here that is more flexible and can be tailored to backup just specific data to dropbox. The example that is shown here is presented as a Ruby rake task that you can use/modify to schedule your own backups.
 
 ```
